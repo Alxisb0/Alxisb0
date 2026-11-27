@@ -9,7 +9,8 @@
 - Outils : Git, GitHub, Docker, VS Code, IntelliJ IDEA
 
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Alxisb0&layout=compact&theme=default)
-(le graphique ne prend pas en compte les contributions sur les dépôts des autres) 
+
+*Le graphique ne prend pas en compte les contributions sur les dépôts des autres.*
 
 ## Projets réalisés
 
