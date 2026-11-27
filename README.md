@@ -6,7 +6,9 @@
 - Langages : Java, Python, JavaScript, SQL, C
 - Web : Vue.js, Symfony, Node.js, Flask, HTML, CSS
 - Outils : Git, GitHub, Docker, VS Code, IntelliJ IDEA
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Alxisb0&layout=compact&theme=default)
+- 
+![Langages les plus utilisés]
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Alxisb0&layout=compact&theme=default)
 
   
 ## Projets réalisés
