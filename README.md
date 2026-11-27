@@ -7,12 +7,35 @@
 - Web : Vue.js, Symfony, Node.js, Flask, HTML, CSS
 - Outils : Git, GitHub, Docker, VS Code, IntelliJ IDEA
 
-## Projets
+  
+## Projets réalisés
 
-- [Site de gestion d'un événement sportif](https://github.com/maevatomvil/SAE.S3-S4) : projet d'équipe, Vue.js et Node.js
-- [Segmentation clients](https://github.com/Alxisb0/IA_projet) : clustering et assistant basé sur un LLM, Python et Streamlit
-- Jeu Puissance X : version texte et version graphique, en Java et JavaFX (projet de groupe, dépôt privé)
-- Suivi de croissance de plantes : projet de groupe en cours, avec Docker
+**[Application de suivi de croissance de plantes](#)** — (En cours)
+Travail en équipe de 5
+Application pour suivre la santé de plantes : via boîtiers ESP32 avec capteurs, possibilité de prendre une photo d'une plante pour estimer sa santé et site de visualisation.
+→ Vue.js, Java, Node.js, MongoDB, Python, Docker.
+
+**Stage développeur full stack, MD Tools (Lure)** — (Avril – Juin 2026)
+Réalisation du front-end et modification puis complétion d'un backend Symfony existant.
+→ Développement d'un outil de gestion de projet, d'équipes, de tâches / découverte de Docker.
+→ Vue.js, Pinia, Vuestic, PHP, Symfony, Docker.
+
+**[Site de gestion d'un événement sportif](https://github.com/maevatomvil/SAE.S3-S4)** — (Octobre 2025 - Avril 2026)
+Travail en équipe de 4
+Site avec différents rôles : organisateur, prestataire, participant.
+→ Gestion des services, ajout/suppression de prestataires, carte interactive.
+→ Vue.js, HTML, CSS, JS, Node.JS, SQL.
+
+**Jeu de Puissance X** — (Avril 2025 - Juin 2025)
+Travail en équipe de 6
+Possibilité de choisir la taille de la grille et le nombre de jetons à aligner pour gagner.
+→ Modes : joueur contre joueur ou contre un bot (3 stratégies de bot).
+→ Java, JavaFX.
+
+**Site de e-commerce avec base de données** — (Janvier-Mai 2025)
+Travail en équipe de 4
+Site complet avec gestion de catégories, page administrateur et statistiques.
+→ HTML, CSS, Python, Flask, SQL.
 
 ## Statistiques GitHub
 
