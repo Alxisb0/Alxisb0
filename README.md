@@ -6,6 +6,7 @@
 - Langages : Java, Python, JavaScript, SQL, C
 - Web : Vue.js, Symfony, Node.js, Flask, HTML, CSS
 - Outils : Git, GitHub, Docker, VS Code, IntelliJ IDEA
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Alxisb0&layout=compact&theme=default)
 
   
 ## Projets réalisés
@@ -36,11 +37,6 @@ Possibilité de choisir la taille de la grille et le nombre de jetons à aligner
 Travail en équipe de 4
 Site complet avec gestion de catégories, page administrateur et statistiques.
 → HTML, CSS, Python, Flask, SQL.
-
-## Statistiques GitHub
-
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Alxisb0&show_icons=true&theme=default)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Alxisb0&layout=compact&theme=default)
 
 ## Contact
 - alexisbollengier2@gmail.com
